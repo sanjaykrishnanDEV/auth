@@ -1,0 +1,9 @@
+.login {
+    height: auto;
+    width: 25vw;
+    background-color: beige;
+  }
+  
+  input{
+      height: 2em;
+  }
